@@ -11,4 +11,4 @@ I am a Manual Tester <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 - ✏️ In my free time, I solve Sketching.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Rakesh_Seenu-blue?style=flat&logo=Linkedin&logoColor=white)](your-www.linkedin.com/in/rakesh-hs-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Rakesh_Seenu-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/rakesh-hs)
